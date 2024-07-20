@@ -8,6 +8,6 @@ In the project "Snake Learns to Play," the objective is to automate the classic 
 
 Business Solution:-
 
- Created a comprehensive dashboard for the "Snake Learns to Play" project that tracks Max Score, Min Score, Average Score, Impact of Tournament Size on Score, Learning Curve Max Score, Impact of Neural Network Layers on Score, and Impact on Mutation Score using Power BI.
+✵ Created a comprehensive dashboard for the "Snake Learns to Play" project that tracks Max Score, Min Score, Average Score, Impact of Tournament Size on Score, Learning Curve Max Score, Impact of Neural Network Layers on Score, and Impact on Mutation Score using Power BI.
 
- Implemented real-time data updates and interactive features, improving data accessibility for stakeholders. Analyzed performance data to identify trends, optimize neural network configurations, and determine the effects of tournament size and mutation on the snake's learning and performance.
+✵ Implemented real-time data updates and interactive features, improving data accessibility for stakeholders. Analyzed performance data to identify trends, optimize neural network configurations, and determine the effects of tournament size and mutation on the snake's learning and performance.
